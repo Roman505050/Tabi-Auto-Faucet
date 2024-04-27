@@ -2,6 +2,8 @@
 
 #   Tabi Auto Faucet
 
+Powered by [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
+
 Tabi Auto Faucet is a simple script that automates the process of claiming from the faucet. It is a simple script that uses the `requests` library to send a request to the faucet every 125 seconds. 
 
 The script is designed for multi-account users. To use a proxy and address in a pair to claim tokens from the faucet for specific address with a specific proxy (or without a proxy, if without proxy, then IP machines will be used).
@@ -40,5 +42,3 @@ Run the script
 ```bash
 python main.py
 ```
-
-Powered by TG Channel: [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
