@@ -2,7 +2,7 @@
 
 #   Tabi Auto Faucet
 
-Powered by [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
+Follow to [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
 
 Tabi Auto Faucet is a simple script that automates the process of claiming from the faucet. It is a simple script that uses the `requests` library to send a request to the faucet every 125 seconds. 
 
