@@ -41,4 +41,4 @@ Run the script
 python main.py
 ```
 
-## Power by Tg Channel - [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
+Powered by TG Channel: [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
