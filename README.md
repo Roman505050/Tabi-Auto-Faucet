@@ -24,7 +24,7 @@ The `ip:port:login:pass:address` is used to claim tokens with a proxy.
 1. Clone the repository
 
 ```bash
-git clone 'url'
+git clone https://github.com/Roman505050/Tabi-Auto-Faucet.git
 ```
 
 2. Install the requirements
