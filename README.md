@@ -24,7 +24,7 @@ The `ip:port:login:pass:address` is used to claim tokens with a proxy.
 1. Clone the repository
 
 ```bash
-git clone `url`
+git clone 'url'
 ```
 
 2. Install the requirements
@@ -38,5 +38,5 @@ pip install requests
 Run the script
 
 ```bash
-python tabi.py
+python main.py
 ```
