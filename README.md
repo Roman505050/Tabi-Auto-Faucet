@@ -40,3 +40,5 @@ Run the script
 ```bash
 python main.py
 ```
+
+## Power by Tg Channel - [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
